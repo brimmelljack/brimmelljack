@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @brimmelljack
-- 👀 I’m a PhD student interested in cognitive and visual attention during pressurised sport performance AND learning how to use GitHub
-- 🌱 I’m currently learning the basics of GitHub and coding
+- 👀 I’m have a PhD in cognitive and visual attention during pressurised sport performance
+- 🌱 I’m currently learning the basics of GitHub and coding (mainly RStudio)
 - 💞️ I’m looking to collaborate on any projects that will allow me to become more familiar with GitHub (e.g., branches, committing, issues, etc.)
+- I'm a lecturer in Psychology at the University of Bolton
 - 📫 How to reach me here on GitHub, email: J.Brimmell@bolton.ac.uk and Twitter: @JACKBRIMMELL
 
 <!---
