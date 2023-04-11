@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brimmelljack
-- 👀 I’m have a PhD in cognitive and visual attention during pressurised sport performance
+- 👀 I have a PhD in cognitive and visual attention during pressurised sport performance
 - 🌱 I’m currently learning the basics of GitHub and coding (mainly RStudio)
 - 💞️ I’m looking to collaborate on any projects that will allow me to become more familiar with GitHub (e.g., branches, committing, issues, etc.)
 - I'm a lecturer in Psychology at the University of Bolton
